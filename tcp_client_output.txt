@@ -1,0 +1,6 @@
+Received: Message 0
+Received: Message 1
+Received: Message 2
+...
+Received: Message 99
+Average TCP Latency: 0.002354 seconds
