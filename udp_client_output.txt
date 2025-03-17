@@ -1,0 +1,9 @@
+Received: Message 0
+Received: Message 1
+Received: Message 3
+...
+Message 7 lost!
+Received: Message 8
+...
+Packet Loss Rate: 8%
+Average UDP Latency: 0.001452 seconds
